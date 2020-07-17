@@ -13,6 +13,7 @@ index.php | <?php include_once("home.html"); ?>
 composer.json | {}
 README.md
 home.html | ...
+cmd.sh
 ```
 ```
 ###### Steps

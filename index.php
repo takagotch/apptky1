@@ -1,4 +1,5 @@
-<?php
+<?php 
 
-echo "Hello, Heroku!!!";
+include_once("home.html");
 
+?>
